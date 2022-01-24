@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.package-btn-bg{
+background-color: #f496d227;
+}
+
+.border-radius{
+    border-radius: 26px;
+}
+
+.scale-card{
+    transform: scale(1.08);
+    height: 480px;
+}
+
+.bonus-sec-height{
+    height: 200px;
+}
+
+.text-deco-none{
+    text-decoration: none;
+}
+
+.line-height{
+    line-height: 15px;
+}
+.footer-bg{
+    background-color:  rgba(11, 13, 23, 1);
+}
